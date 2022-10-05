@@ -28,8 +28,8 @@ A visualização deste efeito no uso do celular ou Tablet só é possivel ao cli
 </div>
 
 <div aligner="center">
-  <p>Na seção de novos lançamentos temos um scrol lateral para visualizar diferentes produtos, que foi feito utilizando uma biblioteca de swipe do javascript, podemos ter todo o codigo sendo chamado ao final na tag <script>
-    <p>Todo o projeto foi realizado com HTML, CSS e JavaScript, realizando assim todas as opções de scrol da tela lateral e responsividade, dando ao usuário mais opções de navegações como, celular, tablet, tv ou pc com diferentes tamanhos de tela.
+  <p>Na seção de novos lançamentos temos um scroll lateral para visualizar diferentes produtos, que foi feito utilizando uma biblioteca de swipe do javascript, podemos ter todo o codigo sendo chamado ao final na tag <script>
+    <p>Todo o projeto foi realizado com HTML, CSS e JavaScript, realizando assim todas as opções de scroll da tela lateral e responsividade, dando ao usuário mais opções de navegações como, celular, tablet, tv ou pc com diferentes tamanhos de tela.
 
 <pNa barra de pesquisa feita com input type="search" foi estilizado para que tenha uma imagem pequena para ilustrar o que buscar em cada uma, toda essa estilização foi feita pelo css dando uma referência visual melhor ao usuário.
 Sua semantica esta estruturada seguindo as classes do HTML.
