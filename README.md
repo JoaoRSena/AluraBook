@@ -53,5 +53,3 @@ A visualização deste efeito no uso do celular ou Tablet só é possivel ao cli
 <p>Sua primeira ateração seria em janelas com (max-width: 1200px) seguido de outra apresentação caso a janela seja menor com (max-width: 960px)
   <img scr="https://user-images.githubusercontent.com/89817889/193364080-0e0c2ee3-339f-41e9-ac2c-d34a049449fd.png">
 </div>
-
-![](https://user-images.githubusercontent.com/89817889/193363286-a179d694-9cf3-4737-a006-4ecf3f65975a.jpg)
