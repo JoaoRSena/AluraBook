@@ -6,6 +6,7 @@ Projeto desenvolvido para reacriar um modelo se site e-cmomerce
 | -------------  | --- |
 | :sparkles: Nome        | **E-commerce livro**
 | :label: Tecnologias | html, css (tecnologias utilizadas)
+| :fire: Objetivo  | Front-End
 
 
 
