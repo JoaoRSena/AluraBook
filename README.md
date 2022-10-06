@@ -5,7 +5,7 @@ Projeto desenvolvido para reacriar um modelo se site e-cmomerce
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **E-commerce livro**
-| :label: Tecnologias | html, css (tecnologias utilizadas)
+| :label: Tecnologias | html, css
 | :fire: Objetivo  | Front-End
 
 
